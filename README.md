@@ -1,6 +1,6 @@
 # Jogo do Número Secreto 🎯
 
-Um projeto simples de mobile feito durante o curso da Alura.  
+Um projeto simples desenvolvindo no curso de mobile feito durante o curso da Alura.  
 O objetivo do jogo é adivinhar um número sorteado entre 1 e 10. A cada tentativa o jogo informa se o número secreto é maior ou menor que a sua tentativa até que você acerte.
 
 ---
